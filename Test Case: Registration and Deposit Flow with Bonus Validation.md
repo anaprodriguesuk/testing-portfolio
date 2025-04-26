@@ -6,7 +6,7 @@
 - **Test CaseID: TC-REG-001
 - **Tester:** Ana Rodrigues
 - **Priority:** High
-- **Status:** Approved
+- **Severity (if bug found)**: High
 - **Test Type:** Functional
 - **Date Executed:** 04/17/2025
 - **Environment:** Apple iPhone 15 Pro - iOS 17.5.1, Safari Browser
@@ -52,7 +52,7 @@
 
 ---
 
-## Expected Result:
+## Expected Result
 - User is able to successfully register.
 - Deposit is successful.
 - Bonus (100 Free Spins) is correctly credited and visible under Rewards.
@@ -60,21 +60,21 @@
 
 ---
 
-## Actual Result:
+## Actual Result (Failed)
 - User is able to register and deposit successfully.
 - Bonus pop-up did not appear automatically after the deposit.
 - Free spins were not reflected in the Rewards section nor in the game.
 
 ---
 
-## Post-Conditions:
+## Post-Conditions
 - User remains logged in.
 - Balance updated correctly after deposit.
 - Bonus not granted automatically.
 
 ---
 
-## Evidence:
+## Evidence
 - Registration Video (`Registration.mp4`)
 - Deposit Video (`Deposit_PayPal.mp4`)
 - Screenshot of Rewards section (`Rewards.jpeg`)
