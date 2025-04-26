@@ -3,7 +3,7 @@
 ---
 
 ## Basic Information:
-- **Test CaseID: TC-REG-001
+- **TestCaseID:** TC-REG-001
 - **Tester:** Ana Rodrigues
 - **Priority:** High
 - **Severity (if bug found)**: High
