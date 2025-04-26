@@ -18,7 +18,7 @@
 1. Open the website and log in using your credentials.
 2. Navigate to the "Cashier" or "Deposit" section.
 3. Deposit a minimum of £10 using a payment method.
-4. Enter promo code: **GCFISH100** in the “Bonus Code” field.
+4. Enter promo code: **----** in the “Bonus Code” field.
 5. Confirm the deposit is successful and check if the balance updates.
 6. Look for a pop-up notifying you about 100 free spins.
 7. Go to "Menu → Rewards" and verify if free spins appear.
