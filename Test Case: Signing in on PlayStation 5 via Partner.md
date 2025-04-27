@@ -6,12 +6,12 @@ Priority: High
 Environment: PlayStation 5, macOS Ventura 13.4.1 (Safari browser)
 Country: United Kingdom (UK)
 
-Pre-Conditions
+**Pre-Conditions**
 The app must be installed on the PlayStation 5.
 The user must have valid credentials from a supported partner service.
 Internet connection must be stable.
 
-Test Steps
+**Test Steps**
 
 Step	Action
 1	Install the app on the PS5 through the PlayStation Store.
