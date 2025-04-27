@@ -22,7 +22,7 @@
 5. Confirm the deposit is successful and check if the balance updates.
 6. Look for a pop-up notifying you about 100 free spins.
 7. Go to "Menu → Rewards" and verify if free spins appear.
-8. Search for **Fishin' Frenzy** on the homepage.
+8. Search for **Selected game** on the homepage.
 9. Click "Try for Free" to check if free spins are available.
 
 ---
