@@ -1,4 +1,4 @@
-# Testing-portfolio
+# testing-portfolio
 
 Welcome to my **Software Testing Portfolio**! 🎉  
 
