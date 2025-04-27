@@ -14,6 +14,7 @@ Internet connection must be stable.
 **Test Steps**
 
 Step	Action
+
 1	Install the app on the PS5 through the PlayStation Store.
 2	Open the app and check if the Sign In button is shown.
 3	Select the "Sign In via Partner" option.
